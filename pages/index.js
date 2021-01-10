@@ -26,7 +26,7 @@ export default () => (
                     {
                       item.articles.map(article => {
                         return (
-                          <p className="mt-3.5"><a className="text-blue-600 custom-underline" href={article.url} target="_blank">{article.name}</a></p>
+                          <p className="mt-4"><a className="text-blue-600 custom-underline" href={article.url} target="_blank">{article.name}</a></p>
                         )
                       })
                     }

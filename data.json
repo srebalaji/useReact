@@ -1,0 +1,211 @@
+[
+	{
+		"topic": "Beginners",
+		"articles": [
+			{
+				"name": "React handbook for beginners",
+				"url": "https://www.freecodecamp.org/news/react-beginner-handbook/#reactcomponents"
+			},
+			{
+				"name": "Build Movie app in React",
+				"url": "https://www.freecodecamp.org/news/react-movie-app-tutorial/"
+			},
+			{
+				"name": "Using storybooks in React",
+				"url": "https://www.freecodecamp.org/news/what-is-storybook-and-how-can-i-use-it-to-create-a-component-libary-in-react/#what-is-storybook"
+			},
+			{
+				"name": "React hooks for beginners",
+				"url": "https://www.freecodecamp.org/news/learn-react-hooks-by-building-a-paint-app/"
+			},
+			{
+				"name": "React testing with Jest",
+				"url": "https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/"
+			},
+			{
+				"name": "Rect router - beginners guide",
+				"url": "https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks/"
+			},
+			{
+				"name": "React context beginners guide",
+				"url": "https://www.freecodecamp.org/news/react-context-in-5-minutes/"
+			},
+			{
+				"name": "useEffect guide",
+				"url": "https://blog.logrocket.com/guide-to-react-useeffect-hook/"
+			},
+			{
+				"name": "Function components vs classes in React",
+				"url": "https://overreacted.io/how-are-function-components-different-from-classes/"
+			},
+			{
+				"name": "How setState works",
+				"url": "https://overreacted.io/how-does-setstate-know-what-to-do/"
+			},
+			{
+				"name": "Intro to styled components",
+				"url": "https://www.freecodecamp.org/news/styled-components-essentials-in-three-steps/"
+			},
+			{
+				"name": "Testing React components",
+				"url": "https://www.freecodecamp.org/news/testing-react-hooks/"
+			},
+			{
+				"name": "React tutorial for useEffect, useState, useRef",
+				"url": "https://www.youtube.com/watch?v=K5eoHVbwAhI&feature=share"
+			},
+			{
+				"name": "Understanding React props",
+				"url": "https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc/"
+			},
+			{
+				"name": "Handling onClick() in React",
+				"url": "https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd/"
+			},
+			{
+				"name": "Using Styled components in React",
+				"url": "https://blog.logrocket.com/using-styled-components-in-react/"
+			}
+		]
+	},
+	{
+		"topic": "Hooks",
+		"articles": [
+			{
+				"name": "Making sense of react hooks",
+				"url": "https://dev.to/dan_abramov/making-sense-of-react-hooks-2eib"
+			},
+			{
+				"name": "Debounce and throttle in React",
+				"url": "https://www.freecodecamp.org/news/debounce-and-throttle-in-react-with-hooks/"
+			},
+			{
+				"name": "React hooks for beginners",
+				"url": "https://www.freecodecamp.org/news/learn-react-hooks-by-building-a-paint-app/"
+			},
+			{
+				"name": "Writing your own React hook and publish it to npm",
+				"url": "https://www.freecodecamp.org/news/how-to-create-a-custom-react-hook-and-publish-it-to-npm/"
+			},
+			{
+				"name": "Building HN clone",
+				"url": "https://www.freecodecamp.org/news/learn-how-to-use-apis-with-react-by-building-a-hacker-news-api-application/"
+			},
+			{
+				"name": "Complete guide for useEffect",
+				"url": "https://overreacted.io/a-complete-guide-to-useeffect/"
+			},
+			{
+				"name": "useEffect guide",
+				"url": "https://blog.logrocket.com/guide-to-react-useeffect-hook/"
+			},
+			{
+				"name": "Understanding useReducer() hook",
+				"url": "https://ui.dev/usereducer/"
+			},
+			{
+				"name": "React tutorial for useEffect, useState, useRef",
+				"url": "https://www.youtube.com/watch?v=K5eoHVbwAhI&feature=share"
+			},
+			{
+				"name": "Hanlding race conditions in useEffect",
+				"url": "https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect/"
+			}
+		]
+	},
+	{
+		"topic": "Testing",
+		"articles": [
+			{
+				"name": "React testing with Jest",
+				"url": "https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/"
+			},
+			{
+				"name": "Testing React components",
+				"url": "https://www.freecodecamp.org/news/testing-react-hooks/"
+			},
+			{
+				"name": "Unit testing React Components",
+				"url": "https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2"
+			},
+			{
+				"name": "React testing using Enzyme and React Testing Library",
+				"url": "https://blog.bitsrc.io/react-testing-library-the-modern-way-to-test-react-components-778ef578d0d9"
+			},
+			{
+				"name": "Testing React apps",
+				"url": "https://www.smashingmagazine.com/2020/07/react-apps-testing-library/"
+			}
+		]
+	},
+	{
+		"topic": "React Router",
+		"articles": [
+			{
+				"name": "Rect router - beginners guide",
+				"url": "https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks/"
+			},
+			{
+				"name": "Navigation in Router V5",
+				"url": "https://ui.dev/react-router-v5-programmatically-navigate/"
+			}
+		]
+	},
+	{
+		"topic": "Projects",
+		"articles": [
+			{
+				"name": "Building HN clone",
+				"url": "https://www.freecodecamp.org/news/learn-how-to-use-apis-with-react-by-building-a-hacker-news-api-application/"
+			}
+		]
+	},
+	{
+		"topic": "Styled Components",
+		"articles": [
+			{
+				"name": "Intro to styled components",
+				"url": "https://www.freecodecamp.org/news/styled-components-essentials-in-three-steps/"
+			}
+		]
+	},
+	{
+		"topic": "React JSX",
+		"articles": [
+			{
+				"name": "JSX in React - Intro",
+				"url": "https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html"
+			}
+		]
+	},
+	{
+		"topic": "Tips",
+		"articles": [
+			{
+				"name": "The React Cheatsheet",
+				"url": "https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg"
+			}
+		]
+	},
+	{
+		"topic": "Others",
+		"articles": [
+			{
+				"name": "Speed up your React application",
+				"url": "https://blog.logrocket.com/speed-up-react-app-dynamic-imports-route-centric-code-splitting/"
+			},
+			{
+				"name": "Using SVGs in React",
+				"url": "https://www.freecodecamp.org/news/how-to-use-svg-icons-in-react-with-react-icons-and-font-awesome/"
+			},
+			{
+				"name": "Concurrent rendering in React",
+				"url": "https://blog.logrocket.com/react-concurrent-mode/"
+			},
+			{
+				"name": "Hanlding race conditions in useEffect",
+				"url": "https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect/"
+			}
+		]
+	}
+]

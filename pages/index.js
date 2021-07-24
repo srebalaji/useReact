@@ -5,7 +5,7 @@ import data from '../data.json';
 
 export default () => (
   <div className="relative  flex content-center items-center justify-center minHeight">
-    <div className="container relative mx-auto">
+    <div className="container w-full relative mx-auto">
       <div className="container w-full text-center bg-blue-500 py-24">
         <h1 className="font-semibold text-5xl text-white">
           useReact

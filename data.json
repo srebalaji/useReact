@@ -65,6 +65,26 @@
 			{
 				"name": "Using Styled components in React",
 				"url": "https://blog.logrocket.com/using-styled-components-in-react/"
+			},
+			{
+				"name": "How to use useRef in React",
+				"url": "https://ui.dev/useref/"
+			},
+			{
+				"name": "React useRef by example",
+				"url": "https://learnreact.design/posts/react-useref-by-example"
+			},
+			{
+				"name": "What you need to know about React useMemo",
+				"url": "https://overreacted.io/before-you-memo/"
+			},
+			{
+				"name": "Using useMemo in React",
+				"url": "https://alexsidorenko.com/blog/react-list-rerender/?utm_source=reactdigest&utm_medium=web&utm_campaign=313"
+			},
+			{
+				"name": "Forms in React",
+				"url": "https://daveceddia.com/react-forms/?utm_source=reactdigest&utm_medium=web&utm_campaign=309"
 			}
 		]
 	},
@@ -110,6 +130,18 @@
 			{
 				"name": "Hanlding race conditions in useEffect",
 				"url": "https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect/"
+			},
+			{
+				"name": "Using async functions in React",
+				"url": "https://dev.to/danialdezfouli/what-s-wrong-with-the-async-function-in-useeffect-4jne?utm_source=reactdigest&utm_medium=web&utm_campaign=307"
+			},
+			{
+				"name": "useReducer in React",
+				"url": "https://javascript.works-hub.com/learn/a-complete-beginners-guide-to-usereducer-hook-f4a78?utm_source=reactdigest&utm_medium=web&utm_campaign=302"
+			},
+			{
+				"name": "useContext in React",
+				"url": "https://www.robinwieruch.de/react-usecontext-hook"
 			}
 		]
 	},
@@ -155,8 +187,36 @@
 		"topic": "Projects",
 		"articles": [
 			{
-				"name": "Building HN clone",
+				"name": "HN clone",
 				"url": "https://www.freecodecamp.org/news/learn-how-to-use-apis-with-react-by-building-a-hacker-news-api-application/"
+			},
+			{
+				"name": "Instagram clone in React #youtube",
+				"url": "https://www.youtube.com/watch?v=AKeaaa8yAAk"
+			},
+			{
+				"name": "Minecraft clone in React #youtube",
+				"url": "https://www.youtube.com/watch?v=ZnXKmODEFHA"
+			},
+			{
+				"name": "Tiktok clone in React #youtube",
+				"url": "https://codesource.io/build-a-tik-tok-clone-with-react-and-firebase/"
+			},
+			{
+				"name": "Color picker in React",
+				"url": "https://lorenzopepe.dev/blog/react-color-picker?utm_source=reactdigest&utm_medium=web&utm_campaign=305"
+			},
+			{
+				"name": "Whac-a-mole game in React",
+				"url": "https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/?utm_source=reactdigest&utm_medium=web&utm_campaign=304"
+			},
+			{
+				"name": "Image to text conversion in React",
+				"url": "https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"
+			},
+			{
+				"name": "Real time chat in React",
+				"url": "https://www.youtube.com/watch?v=HggSXt1Hzfk"
 			}
 		]
 	},
@@ -166,6 +226,14 @@
 			{
 				"name": "Intro to styled components",
 				"url": "https://www.freecodecamp.org/news/styled-components-essentials-in-three-steps/"
+			},
+			{
+				"name": "Syled components best practices",
+				"url": "https://www.robinwieruch.de/styled-components"
+			},
+			{
+				"name": "Demystifying styled components in React",
+				"url": "https://www.joshwcomeau.com/react/demystifying-styled-components/?utm_source=reactdigest&utm_medium=web&utm_campaign=310"
 			}
 		]
 	},
@@ -184,6 +252,39 @@
 			{
 				"name": "The React Cheatsheet",
 				"url": "https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg"
+			},
+			{
+				"name": "React Cheatsheet",
+				"url": "https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd"
+			},
+			{
+				"name": "React router Cheatsheet",
+				"url": "https://www.freecodecamp.org/news/react-router-cheatsheet/"
+			},
+			{
+				"name": "Best practices in React",
+				"url": "https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb"
+			}
+		]
+	},
+	{
+		"topic": "Performance",
+		"articles": [
+			{
+				"name": "Increasing performance in css-in-js",
+				"url": "https://itnext.io/how-to-increase-css-in-js-performance-by-175x-f30ddeac6bce"
+			},
+			{
+				"name": "Optimising React performance",
+				"url": "https://nosleepjavascript.com/react-performance/"
+			},
+			{
+				"name": "Production grade React app",
+				"url": "https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps"
+			},
+			{
+				"name": "React component patterns",
+				"url": "https://dev.to/alexi_be3/react-component-patterns-49ho"
 			}
 		]
 	},
@@ -205,6 +306,14 @@
 			{
 				"name": "Hanlding race conditions in useEffect",
 				"url": "https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect/"
+			},
+			{
+				"name": "Dockerize your react app",
+				"url": "https://dev.to/karanpratapsingh/dockerize-your-react-app-4j2e"
+			},
+			{
+				"name": "Dependency injection in React",
+				"url": "https://8thlight.com/blog/rani-zilpelwar/2021/02/18/dependency-injection-react.html"
 			}
 		]
 	}

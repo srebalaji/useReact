@@ -11,7 +11,7 @@ const feed = new Podcast({
   author: "Srebalaji",
   managingEditor: "Srebalaji",
   webMaster: "Srebalaji",
-  copyright: "2013 Srebalaji",
+  copyright: "2021 Srebalaji",
   language: "en",
   // categories: ["Category 1", "Category 2", "Category 3"],
   pubDate: "Aug 25, 2021 04:00:00 GMT",
@@ -45,7 +45,10 @@ feed.addItem({
   date: "Aug 25, 2021", // any format that js Date can parse.
   // lat: 33.417974, //optional latitude field for GeoRSS
   // long: -111.933231, //optional longitude field for GeoRSS
-  enclosure: { url: "http://example.com/audio" }, // optional enclosure
+  enclosure: {
+    url:
+      "https://texttovoicesecond.s3.ap-south-1.amazonaws.com/f6de8689-d419-44a9-aa2d-f28cd37bcf78.mp3",
+  }, // optional enclosure
   itunesAuthor: "Srebalaji",
   itunesExplicit: false,
   itunesSubtitle: "I am a sub title",
